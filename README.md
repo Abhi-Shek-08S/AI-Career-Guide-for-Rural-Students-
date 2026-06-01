@@ -1,6 +1,6 @@
-# CareerPath India — AI-Powered Career Guidance Platform
+# AI-Career-Guide-for-Rural-Student
 
-CareerPath India is a full-stack mobile application that provides **AI-powered, personalised career guidance** to Indian students — especially those from rural, semi-urban, and economically weaker backgrounds. By collecting a student's academic profile, interests, location, and financial situation, the platform uses a Large Language Model (LLM) to generate tailored career paths, college recommendations, scholarship matches, job opportunities, and step-by-step roadmaps.
+AI-Career-Guide-for-Rural-Student is a full-stack mobile application that provides **AI-powered, personalised career guidanc** to Indian students — especially those from rural, semi-urban, and economically weaker backgrounds. By collecting a student's academic profile, interests, location, and financial situation, the platform uses a Large Language Model (LLM) to generate tailored career paths, college recommendations, scholarship matches, job opportunities, and step-by-step roadmaps.
 
 ---
 
